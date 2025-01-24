@@ -121,7 +121,7 @@ const HyperInteractive2140Bond = () => {
             2140.BOND
           </h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto text-gray-300 mb-8">
-            Quantum leap into decentralized technological convergence
+            Web3 leap into decentralized technological convergence
           </p>
 
           <button
@@ -226,7 +226,7 @@ const HyperInteractive2140Bond = () => {
       {/* Footer */}
       <footer className="relative z-40 bg-black/30 py-6 text-center">
         <p className="text-gray-400">
-          © 2140 Bond - Quantum Decentralized Frontier
+          © 2140 Bond - Web3 Decentralized Frontier
         </p>
       </footer>
 
